@@ -2,4 +2,9 @@
     <string name="app_name">DicodingMyRecyclerView</string>
     <string name="heroes_name">Nama Pahlawan</string>
     <string name="detail">Detail</string>
+    <string name="list">list</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">With Cardview</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
 </resources>
